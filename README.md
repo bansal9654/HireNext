@@ -39,7 +39,7 @@ A modern, full‑stack hiring platform that streamlines job posting, candidate m
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/iamshubh1/HireNext.git
+git clone https://github.com/bansal9654/HireNext.git
 cd HireNext
 ```
 
@@ -130,6 +130,6 @@ HireNext Team
 
 – **Live Demo**: [HireNext](https://hirenext-liard.vercel.app)
 
-– **GitHub**: [iamshubh1/HireNext](https://github.com/iamshubh1/HireNext)
+– **GitHub**: [bansal9654/HireNext](https://github.com/bansal9654/HireNext)
 
-– **Email**: [mail@shubhamJha](mailto:shubhamjha9721@gmail.com)
+– **Email**: [mail@shubhamBansal](mailto:shubhambansalimp@gmail.com)
